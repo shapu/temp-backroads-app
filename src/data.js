@@ -21,15 +21,17 @@ export const services = [
     id: 1,
     icon: "fa fa-wallet fa-fw",
     title: "saving money",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit."+
-              "Asperiores, officia",
+    text:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit." +
+      "Asperiores, officia",
   },
   {
     id: 2,
     icon: "fas fa-socks fa-fw",
     title: "amazing comfort",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit."+
-              "Asperiores, officia.",
+    text:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit." +
+      "Asperiores, officia.",
   },
 ];
 
@@ -39,9 +41,10 @@ export const tours = [
     image: tour1,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
-    info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque"+
-              "vitae tempore voluptatum maxime reprehenderit eum quod"+
-              "exercitationem fugit, qui corporis.",
+    info:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque" +
+      "vitae tempore voluptatum maxime reprehenderit eum quod" +
+      "exercitationem fugit, qui corporis.",
     location: "China",
     duration: 6,
     cost: 2100,
@@ -51,9 +54,10 @@ export const tours = [
     image: tour2,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
-    info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque"+
-            "vitae tempore voluptatum maxime reprehenderit eum quod"+
-              "exercitationem fugit, qui corporis.",
+    info:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque" +
+      "vitae tempore voluptatum maxime reprehenderit eum quod" +
+      "exercitationem fugit, qui corporis.",
     location: "China",
     duration: 6,
     cost: 2100,
@@ -63,9 +67,10 @@ export const tours = [
     image: tour3,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
-    info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque"+
-              "vitae tempore voluptatum maxime reprehenderit eum quod"+
-              "exercitationem fugit, qui corporis.",
+    info:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque" +
+      "vitae tempore voluptatum maxime reprehenderit eum quod" +
+      "exercitationem fugit, qui corporis.",
     location: "China",
     duration: 6,
     cost: 2100,
@@ -75,9 +80,10 @@ export const tours = [
     image: tour4,
     date: "august 26th, 2020",
     title: "Tibet Adventure",
-    info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque"+
-              "vitae tempore voluptatum maxime reprehenderit eum quod"
-              "exercitationem fugit, qui corporis.",
+    info:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque" +
+      "vitae tempore voluptatum maxime reprehenderit eum quod" +
+      "exercitationem fugit, qui corporis.",
     location: "China",
     duration: 6,
     cost: 2100,
