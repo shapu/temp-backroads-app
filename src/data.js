@@ -64,7 +64,7 @@ export const tours = [
     date: "august 26th, 2020",
     title: "Tibet Adventure",
     info: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque"+
-              "vitae tempore voluptatum maxime reprehenderit eum quod"
+              "vitae tempore voluptatum maxime reprehenderit eum quod"+
               "exercitationem fugit, qui corporis.",
     location: "China",
     duration: 6,
